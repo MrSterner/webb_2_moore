@@ -1,0 +1,20 @@
+Django[argon2]==1.11.5
+wagtail==1.12.2
+
+# External Libraries
+requests==2.18.4
+
+# Templates
+django-compressor==2.2
+django-libsass==0.7
+wagtailfontawesome==1.0.6
+
+# Scheduled tasks
+django-kronos==1.0
+
+# User management
+rules==1.2.1
+django-simple-email-confirmation==0.22
+
+# Logging
+raven==6.2.1
